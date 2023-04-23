@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Working\FATEC\data_pilha\bin\Debug\net6.0\data_pilha.exe
+C:\Users\user\Desktop\Working\FATEC\data_pilha\bin\Debug\net6.0\data_pilha.deps.json
+C:\Users\user\Desktop\Working\FATEC\data_pilha\bin\Debug\net6.0\data_pilha.runtimeconfig.json
+C:\Users\user\Desktop\Working\FATEC\data_pilha\bin\Debug\net6.0\data_pilha.dll
+C:\Users\user\Desktop\Working\FATEC\data_pilha\bin\Debug\net6.0\data_pilha.pdb
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.AssemblyInfo.cs
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.dll
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\refint\data_pilha.dll
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.pdb
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\data_pilha.genruntimeconfig.cache
+C:\Users\user\Desktop\Working\FATEC\data_pilha\obj\Debug\net6.0\ref\data_pilha.dll
